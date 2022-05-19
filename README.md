@@ -8,7 +8,7 @@
 El repositorio contiene tres carpetas:<br>
 <dl>
   <dt>archivos gv</dt>
-  <dd>Carpeta donde se encuentran los archivos gv generados por el programa, 2 por cada modelo; pocos nodos (10), muchos nodos(100). También se encuentran los archivos de grafos calculados (grafo del algoritmo de Dijkstra).</dd>
+  <dd>Carpeta donde se encuentran los archivos gv generados por el programa, 2 por cada modelo; pocos nodos (10), muchos nodos(100). También se encuentran los archivos gv de grafos calculados (grafo Dijkstra).</dd>
   <dt>img</dt>
   <dd>Carpeta donde se encuentran imágenes creadas con los grafos generados (generados y calculados), 24 en total. Se utilizo Gephi.</dd>
   <dt>src</dt>
